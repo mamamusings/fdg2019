@@ -1,4 +1,6 @@
-# FDG 2019 Workshop on Tenure & Promotion Policies - Liz Lawley Materials
+# FDG 2019 Workshop on Tenure & Promotion Policies
+
+## Liz Lawley's Materials
 
 [Publication and Evaluation Challenges in Interactive Games & Media](https://scholarworks.rit.edu/other/919/) - Full workshop paper from RIT repository
 
