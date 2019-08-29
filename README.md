@@ -11,3 +11,5 @@
 [RIT School of Interactive Games & Media Guidelines for Promotion & Tenure](IGM_school_promotion_and_tenure_guidelines.pdf)
 
 
+Want to chat about any of this?
+elizabeth.lawley@rit.edu / lawley.rit.edu / research.mamamusings.net
