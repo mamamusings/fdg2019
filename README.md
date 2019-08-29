@@ -1,6 +1,6 @@
-# Liz Lawley - FDG 2019 Conference - Relevant Resources
+# FDG 2019 Workshop on Tenure & Promotion Policies - Liz Lawley Materials
 
-[Publication and Evaluation Challenges in Interactive Games & Media](https://scholarworks.rit.edu/other/919/) (Full paper from RIT repository)
+[Publication and Evaluation Challenges in Interactive Games & Media](https://scholarworks.rit.edu/other/919/) - Full workshop paper from RIT repository
 
 [Zotero Group with Relevant Resources](https://www.zotero.org/groups/2362963/fdg_tpp_workshop/) - Private group; you have to request membership. Contains all resources I consulted while writing the paper, not just the ones in the paper bibliography
 
